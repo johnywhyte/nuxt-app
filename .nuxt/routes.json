@@ -1,0 +1,23 @@
+[
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/Users/userpc/Documents/nuxt simple starter pack/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_32a959ca"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "/Users/userpc/Documents/nuxt simple starter pack/pages/register.vue",
+    "chunkName": "pages/register",
+    "_name": "_47d8f2d2"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/userpc/Documents/nuxt simple starter pack/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6901b6b3"
+  }
+]
